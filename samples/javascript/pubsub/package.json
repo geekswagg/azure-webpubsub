@@ -12,6 +12,6 @@
   "dependencies": {
     "@azure/web-pubsub": "^1.0.0",
     "@azure/web-pubsub-express": "^1.0.0",
-    "ws": "^7.4.4"
+    "ws": "^7.5.10"
   }
 }

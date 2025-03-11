@@ -20,11 +20,11 @@
     "@types/request": "^2.48.8",
     "collaborate-code-editor": "file:..",
     "cors": "^2.8.5",
-    "express": "^4.17.2",
+    "express": "^4.20.0",
     "lib0": "^0.2.43",
     "request": "^2.88.2",
     "typescript": "^4.6.2",
-    "ws": "^8.5.0",
+    "ws": "^7.5.10",
     "y-azure-webpubsub": "^1.0.0-beta.23",
     "yjs": "^13.5.28"
   },

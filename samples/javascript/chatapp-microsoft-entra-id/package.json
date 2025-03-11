@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@azure/identity": "^2.0.1",
+    "@azure/identity": "^4.2.1",
     "@azure/web-pubsub": "^1.0.0",
     "@azure/web-pubsub-express": "^1.0.0",
-    "express": "^4.17.1"
+    "express": "^4.20.0"
   }
 }
